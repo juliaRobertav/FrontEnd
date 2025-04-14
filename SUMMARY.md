@@ -1,4 +1,6 @@
 # Table of contents
 
 * [HTML](README.md)
-  * [aula1](html/aula1.md)
+  * [aula1](aula1.md)
+* [JS](js.md)
+* [CSS](css.md)
