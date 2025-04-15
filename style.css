@@ -1,0 +1,22 @@
+img {
+
+    border: 2px solid black;
+}
+
+h1 {
+    color: red !important;
+    border: 3px solid mediumseagreen;
+}
+
+.texto {
+    color: magenta;
+    border: 5px solid red;
+}
+
+#um {
+    color: blueviolet;
+}
+
+/* #dois {
+    color: brown;
+} */

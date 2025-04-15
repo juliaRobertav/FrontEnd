@@ -1,6 +1,12 @@
 # Primeiros Passos em HTML
 
 Uma breve introdução aos elementos fundamentais do HTML.
+### atalhos:
+### Alt + Shift + Seta p/ baixo (duplica)
+### Ctrl + D (edita dois elementos da mesma tag)
+### Ctrl + Shift + Enter (cria uma linha acima)
+### Ctrl + Enter (cria uma linha abaixo)
+### Ctrl + Alt + Seta p/ baixo (alinha o cursos nas linhas de baixo)
 
 ## Elementos Essenciais
 
