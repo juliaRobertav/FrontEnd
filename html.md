@@ -1,5 +1,10 @@
 # Primeiros Passos em HTML
 
+## cursos:
+### https://drive.google.com/file/d/0B_bvkQKJYoYLaVNNcjRHaFZBVU0/view?resourcekey=0-wLexB_M_fzlFyQiCJVb5uw
+
+### https://www.w3schools.com/
+
 Uma breve introdução aos elementos fundamentais do HTML.
 ### atalhos:
 ### Alt + Shift + Seta p/ baixo (duplica)
